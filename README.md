@@ -16,9 +16,10 @@
    ```bash
    git clone https://github.com/omnik2026/test/tree/main
 
-2. **Активируйте виртуальное окружение:**
+2. **Создайте и активируйте виртуальное окружение:**
 
    ```bash
+   python -m venv env
    .\env\Scripts\activate
 
 3. **Установите зависимости:**
