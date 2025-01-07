@@ -14,7 +14,7 @@
 1. **Скачайте или клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/omnik2026/test/tree/main
+   git clone https://github.com/omnik2026/test_task/tree/main
 
 2. **Создайте и активируйте виртуальное окружение:**
 
