@@ -21,12 +21,12 @@
    ```bash
    python -m venv env
    .\env\Scripts\activate
-   cd backend
 
 3. **Установите зависимости:**
 
    ```bash
    pip install -r requirements.txt
+   cd backend
    
 1. **Настройте базу данных:**
 
