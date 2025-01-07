@@ -21,6 +21,7 @@
    ```bash
    python -m venv env
    .\env\Scripts\activate
+   cd backend
 
 3. **Установите зависимости:**
 
