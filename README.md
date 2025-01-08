@@ -26,7 +26,7 @@
    pip install -r requirements.txt
    cd backend
    
-1. **Настройте базу данных:**
+1. **Настройте базу данных в файле backend/settings.py**
 
    ```bash
    DATABASES = {
